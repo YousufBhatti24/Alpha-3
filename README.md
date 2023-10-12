@@ -1,5 +1,7 @@
-# Alpha 3 is a Tech Company
+# Alpha 3 "Pioneering the Art of Tech."
 <br>
-and this is my First Project.
+This is my First Github Project.
 <br>
-Author - Yousuf Bhatti.
+Alpha 3 is a Tech Agency. We have Top Graphic Designers, Web Developers, UI/UX Designers and App Developer
+<br> 
+The Author of this Project - Yousuf Bhatti.
