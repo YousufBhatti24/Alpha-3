@@ -286,7 +286,7 @@
     z-index: 5;
     transition: .4s; }
   
-  #homeSection {
+#homeSection {
     position: relative;
     margin-bottom: 100px; }
     #homeSection .slider-box {
@@ -920,7 +920,7 @@
         background: #fb383b; }
   
   #workSection {
-    background: url(../img/work-bg.jpg);
+    background: url(../Pics/work-bg.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -1133,12 +1133,12 @@
     width: 100%;
     top: 0;
     right: 0;
-    background: url(../img/footer.png);
+    background: url(../Pics/footer.png);
     background-repeat: no-repeat;
     background-position: center; }
   
   #pageHeader {
-    background: url(../img/home-bg.jpg);
+    background: url(../Pics/home-bg.jpg);
     background-size: cover;
     background-position: center top;
     margin-bottom: 100px; }
@@ -1215,7 +1215,7 @@
     #navigration {
       padding: 10px !important; }
       #navigration .sidenav {
-        position:  relative;
+        position:  absolute;
         background: #222429;
         top: 0;
         left: -305px;
