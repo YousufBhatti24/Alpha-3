@@ -290,7 +290,7 @@
     position: relative;
     margin-bottom: 100px; }
     #homeSection .slider-box {
-      background: url(../img/home-bg.jpg);
+      background: url(../Pics/home-bg.jpg);
       background-size: cover;
       background-position: center top;
       height: 100vh; }
@@ -320,11 +320,11 @@
       width: 100%;
       top: 0;
       right: 0;
-      background: url(../img/layer.png);
+      background: url(../Pics/layer.png);
       background-repeat: no-repeat;
       background-position: right top; }
     #homeSection .slider-box2 {
-      background: url(../img/home-bg01.jpg);
+      background: url(../Pics/home-bg01.jpg);
       background-size: cover;
       background-position: center center; }
     #homeSection .owl-carousel {
